@@ -44,7 +44,7 @@ About projects.
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="servicesolutions.png"/></td>
             <td>ServiceSolutions</td>
             <td>A application for making the live as a service engineer easier</td>
-            <td><a target="_blank" href="">site</a></br><a target="_blank" href="https://github.com/benjamin87-design/ServiceSolutions">GitHub</a></td>
+            <td><a target="_blank" href="">site</a></br><a target="_blank" href="https://github.com/benjamin87-design/GearHonService">GitHub</a></td>
         </tr>
         <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="gearhonxpert.png"/></td>
