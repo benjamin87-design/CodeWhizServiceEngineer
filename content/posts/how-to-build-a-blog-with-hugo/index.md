@@ -6,6 +6,7 @@ summary: "Step by step tutorial of how to build a blog with Hugo and blowfish"
 categories: ["Code Tutorial" ]
 series: ["blog"]
 series_order: 2
+draft: false
 ---
 
 ## Introduction

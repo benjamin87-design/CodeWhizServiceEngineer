@@ -1,7 +1,7 @@
 ---
 title: "Scheduler with Supabase"
 date: 2023-11-07
-tags: [ ".NET", "MAUI", "Calendar" ]
+tags: [ ".NET", "MAUI", "calendar" ]
 summary: "Step by step tutorial of how to create a scheduler by yourself and fill it with appointments"
 categories: [".Net Maui Tutorial" ]
 draft: false

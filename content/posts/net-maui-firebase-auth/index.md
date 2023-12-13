@@ -1,7 +1,7 @@
 ---
 title: ".Net Maui Firebase authentification tutorial"
 date: 2023-10-10
-tags: [ ".net", "maui", "firebase" ]
+tags: [ ".NET", "MAUI", "firebase" ]
 summary: "Step by step tutorial to setup firebase authentication on a .Net Maui application"
 categories: [".Net Maui Tutorial" ]
 draft: false

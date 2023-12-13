@@ -1,7 +1,7 @@
 ---
 title: "Why switch from Google Firebase to Supabase: A game-changing move with china in mind"
 date: 2023-10-31
-tags: [ "VisualStudio", "Supabase" ]
+tags: [ "Firebase", "Supabase" ]
 summary: "Firebase are not reachable in china, so a alternative was needed and also found"
 categories: ["Code blog"]
 draft: false

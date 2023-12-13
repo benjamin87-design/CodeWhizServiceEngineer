@@ -36,7 +36,7 @@ About projects.
     <tbody>
          <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="tsecblog.jpg"/></td>
-            <td>TSECBlog</td>
+            <td>CodeWhizServiceEngineer</td>
             <td>Blog with powerful, lightweight theme for Hugo built with Tailwind CSS.</td>
             <td><a target="_blank" href="">site</a></br><a target="_blank" href="https://github.com/benjamin87-design/TSECBlog">GitHub</a></td>
         </tr>
