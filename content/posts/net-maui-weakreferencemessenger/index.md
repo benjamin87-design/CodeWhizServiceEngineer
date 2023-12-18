@@ -1,6 +1,6 @@
 ---
 title: ".NET MAUI WeakReference Messenger: Your Best Friend"
-date: 2023-12-12
+date: 2023-12-18
 tags: [ ".NET", "MAUI", "weakreference messenger" ]
 summary: ".NET MAUI: WeakReference Messenger enhances app communication, memory, and codebase."
 categories: [".Net Maui Tutorial" ]
